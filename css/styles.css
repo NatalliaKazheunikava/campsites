@@ -1,5 +1,6 @@
 body {
     font-family: "Open Sans", sans-serif;
+    background-color: #CEC8FF
 }
 
 h1, h2, h3 {
@@ -29,7 +30,7 @@ header h2 {
 }
 
 .navbar {
-    background-color: #901CAD;
+    background-color: #71308b;
 }
 
 .site-footer{
@@ -44,9 +45,12 @@ a, a:hover {
   }
 
 .carousel-caption {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0,0,0, 0.5);
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid #ffffff;
+}
+.headers {
+    color: #3046C5;
 }
