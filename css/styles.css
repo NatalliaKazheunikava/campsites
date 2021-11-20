@@ -23,7 +23,7 @@ header h2 {
   min-height: 200px; }
 
 .navbar {
-  background-color: #71308b; }
+  background-color: #74119b; }
 
 .site-footer {
   background-image: linear-gradient(#CEC8FF, white);
@@ -48,3 +48,11 @@ a, a:hover {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #74119b;
+  color: white; }
